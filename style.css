@@ -83,8 +83,3 @@ a:active {
   width: 1200px;
   margin: auto;
 }
-
-.image {
-  line-height: 1.5em;
-  list-style-image: url(book-icon.jpg)
-}
