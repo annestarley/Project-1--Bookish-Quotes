@@ -52,7 +52,7 @@ footer {
 }
 
 a:link {
-  color: blue;
+  color: #3352E8;
   background-color: transparent;
 }
 
@@ -84,4 +84,10 @@ a:active {
 .wrapperFooter {
   width: 1200px;
   margin: auto;
+}
+
+.quotes {
+  font-size: 12px;
+  text-indent: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
 }
